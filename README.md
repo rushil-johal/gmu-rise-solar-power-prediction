@@ -22,7 +22,6 @@ This project focuses on:
 
 | File | Description |
 |-------------|-------------|
-| `RAW_PV_POWER.csv` | Raw PV solar power data collected at various time intervals |
 | `FINAL_PV_POWER_5_MINS.csv` | Cleaned and processed 5-minute interval dataset |
 | `FINAL_PV_POWER_30_MINS.csv` | Cleaned and processed 30-minute interval dataset |
 | `Dataset_Cleaning.ipynb` | Jupyter Notebook for data loading, cleaning, and preprocessing |
