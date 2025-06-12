@@ -1,0 +1,1 @@
+# gmu-rise-solar-power-prediction
