@@ -3,7 +3,6 @@
 This repository contains my full research project as part of the **RISE Scholars Program** at **George Mason University's College of Science**. The study investigates, models, and forecasts photovoltaic (PV) solar power generation using real-world 5-minute and 30-minute interval data from a solar energy system.
   
 **Affiliation:** George Mason University - Department of Computational and Data Sciences
-**Research Host:** GMU College of Science – RISE Scholars Program
 
 ---
 
