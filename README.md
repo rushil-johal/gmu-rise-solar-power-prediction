@@ -24,8 +24,8 @@ This project focuses on:
 |-------------|-------------|
 | `FINAL_PV_POWER_5_MINS.csv` | Cleaned and processed 5-minute interval dataset |
 | `FINAL_PV_POWER_30_MINS.csv` | Cleaned and processed 30-minute interval dataset |
-| `Dataset_Cleaning.ipynb` | Jupyter Notebook for data loading, cleaning, and preprocessing |
-| `EDA_Visualization.ipynb` | In-depth exploratory analysis with visualizations |
+| `Dataset_Cleaning.ipynb` |  Data loading, cleaning, and preprocessing |
+| `EDA_Visualization.ipynb` | Exploratory analysis with visualizations |
 | `Predicitive_Regression_Models.ipynb` | Linear, polynomial, and regularized regression modeling for prediction |
 | `Time_Series_Forecasting.ipynb` | ARIMA and Prophet models for forecasting solar energy output |
 | `RISE_Research_Poster.pdf` | Final academic poster summarizing methodology, results, and future work |
